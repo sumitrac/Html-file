@@ -9,6 +9,38 @@
 </head>
 
 <body>
+//headlines//
+<h1> </h1>
+
+//Paragraphs//
+<p> </p>
+
+//Line breaks//
+<br>
+
+//Lists//
+<ul> </ul>
+<ol> </ol>
+<li> </li>
+
+//Emphasis//
+<strong></strong>
+<em></em>
+
+//Links//
+<a></a>
+
+//images//
+<img></img>
+
+//Tables//
+<table></table>
+  <thead></thead>
+  <tbody></tbody>
+  <tr></tr>
+  <th></th>
+  <td></td>
+
 </body>
 
 </html>
